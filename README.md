@@ -1,2 +1,4 @@
-Contains sample Python programming codes and scripts.
+Contains sample Python programming examples for Kabarak University Ihub.
+
+
 
